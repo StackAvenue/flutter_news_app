@@ -55,6 +55,3 @@ class NewsInfo extends StatelessWidget{
     );
   }
 }
-
-class Conatiner {
-}
